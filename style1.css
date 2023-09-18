@@ -221,7 +221,7 @@ button:active {
 
 }
 .portfolio{
-	padding: 10px 100px;
+	padding: 10px 200px;
 	background-color: #dddada;	
 }
 
@@ -290,7 +290,7 @@ button:active {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	width: 300px;
+	width: 200px;
 	height: 400px;
 	background: #e8e8e8;
 	border-radius: 15px;
@@ -299,8 +299,8 @@ button:active {
 	color: #212121;
 	border: 2px solid #065066;
 	transition: all .5s ease;
-	padding: 10px 20px;
-	margin: 25px 30px;
+	padding: 10px 30px;
+	margin: 20px 10px;
   }
   
   .image {
@@ -315,6 +315,7 @@ button:active {
 .image img{
 	height: 200px;
 	width: auto;
+	align-content: center;
 }
   
   .image__info {
