@@ -300,7 +300,7 @@ button:active {
 	border: 2px solid #065066;
 	transition: all .5s ease;
 	padding: 5px 10px;
-	margin: 20px 10px;
+	margin: 20px 5px;
   }
   
   .image {
