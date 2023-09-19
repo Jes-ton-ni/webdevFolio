@@ -222,6 +222,7 @@ button:active {
 }
 .portfolio{
 	padding: 10px 20px;
+	height: 100vh;
 	background-color: #dddada;	
 }
 
