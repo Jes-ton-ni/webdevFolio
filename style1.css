@@ -221,7 +221,7 @@ button:active {
 
 }
 .portfolio{
-	padding: 10px 200px;
+	padding: 10px 100px;
 	background-color: #dddada;	
 }
 
@@ -355,7 +355,7 @@ button:active {
 
   @media only screen and (max-width: 800px) {
 	.portfolio{
-		padding: 10px 40px;
+		padding: 10px 20px;
 		background-color: #dddada;	
 	}
 	
@@ -372,7 +372,7 @@ button:active {
 		color: #212121;
 		border: 2px solid #065066;
 		transition: all .5s ease;
-		padding: 10px 10px;
+		padding: 10px 5px;
 		margin: 20px 10px;
 	  }
 	  
